@@ -1,0 +1,62 @@
+body{
+
+}
+.container{
+	width: 1000px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.menu-section{}
+.menu{justify-content: center;display: flex;padding: 20px 0;}
+.menu ul{margin: 0;}
+.menu ul li{list-style: none;float: left;padding: 0 20px;}
+.menu ul li a{text-decoration: navajowhite;color: black;text-transform: capitalize;font-size: 20px;}
+.banner-section{padding: 50px 0;}
+.image{width: 50%;float: left;text-align: center;}
+.image img{height: 100%;width: 50%;}
+.banner-section .content{text-align: center;padding-top: 65px;}
+.banner-section .content h1{margin: 0;text-transform: capitalize;font-size: 50px;padding-bottom: 30px;}
+.banner-section .content p{font-size: 20px;margin: 0;line-height: 1.3;}
+.personal-info{padding: 50px 0;}
+.personal-info .heading{text-align: center;}
+.personal-info .heading h1{font-size: 40px;margin: 0;text-transform: uppercase;}
+.personal-info .heading hr{width: 6%;}
+
+
+.personal-info table{margin: 0 auto;padding: 30px 0;}
+.personal-info table tr{}
+.personal-info table tr td{padding: 6px 35px;font-size: 20px;}
+.education{padding: 50px 0;}
+.education .heading{text-align: center;}
+.education .heading h1{font-size: 40px;margin: 0;text-transform: uppercase;}
+.education .heading hr{width: 5%;}
+.education .box{width: 40%;float: left;margin: 10px 25px;background: #a3a3a3;color: white;padding-left: 10px;}
+.education .box h6{font-size: 20px;margin: 0;padding-left: 10px;padding-top: 15px;}
+.education .box h6 span{}
+.education .box p{}
+.hobby-section{text-align: center; padding: 50px 0;}
+.hobby-section .heading{text-align: center;}
+.hobby-section .heading h1{font-size: 40px;margin: 0;text-transform: uppercase;}
+.hobby-section .heading hr{width: 5%;}
+
+.hobby-section ul{padding-top: 30px;}
+.hobby-section ul li{list-style: none;padding: 5px 0;font-size: 21px;}
+.favourite-section{text-align: center; padding: 50px 0;}
+.favourite-section .heading{text-align: center;}
+.favourite-section .heading h1{font-size: 40px;margin: 0;text-transform: uppercase;}
+.favourite-section .heading hr{width: 5%;}
+
+.favourite-list{ padding: 50px 0; }
+.favourite-list .heading{text-align: center;}
+.favourite-list .heading h1{font-size: 40px;margin: 0;text-transform: uppercase;}
+.favourite-list .heading hr{width: 5%;}
+.favourite-list ul{}
+.favourite-list ul li{list-style: none;font-size: 21px;padding: 6px 0;}
+.favourite-link{ padding: 50px 0; }
+.favourite-link .heading{text-align: center;}
+.favourite-link .heading h1{font-size: 40px;margin: 0;text-transform: uppercase;}
+.favourite-link .heading hr{width: 5%;}
+.favourite-link ul{}
+.favourite-link ul li{list-style: none;font-size: 21px;padding: 6px 0;}
+.favourite-link ul li a{text-decoration: none;}
+
